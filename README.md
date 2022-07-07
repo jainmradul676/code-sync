@@ -1,3 +1,3 @@
 ### Demo
 
-https://code-sync.codersgyan.com/
+https://codesync-v1.herokuapp.com/
